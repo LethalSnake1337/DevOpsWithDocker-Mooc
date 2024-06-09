@@ -1,0 +1,5 @@
+D:\MOOC\DevOpsWithDocker-Mooc>docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+D:\MOOC\DevOpsWithDocker-Mooc>docker ps -ls
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES     SIZE
